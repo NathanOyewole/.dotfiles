@@ -1,0 +1,9 @@
+[user]
+    name = Nathan Oyewole
+    email = nathanoyewole7@gmail.com
+
+[core]
+    editor = nvim
+
+[color]
+    ui = auto
